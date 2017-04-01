@@ -168,3 +168,16 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+/* ----------------------------------------------------------------- */
+
+#navBarSignature {
+  height: 40px;
+  width: 100px;
+  padding-bottom: 15px;
+}
+
+#bookImg {
+  height: 500px;
+  width: 300px;
+}

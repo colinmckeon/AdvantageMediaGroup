@@ -213,7 +213,7 @@ p.copyright {
 
 /* FORM SECTION */
 #intakeFormContainer {
-  height: 400px;
+  height: 300px;
   width: 100%;
 }
 /*#intakeForm {
@@ -251,8 +251,21 @@ p.copyright {
 }
 
 
-
+/* ABOUT AUTHOR SECTION */
+.aboutAuthor {
+  text-align: center;
+  color: #C91E24;
+}
+.aboutAuthor h1 {
+  font-size: 50px;
+}
 .aboutAuthorImg {
-  width: ;
   height: 440px;
+  border: 2px solid #C91E24;
+}
+#aboutAuthorContentA {
+  font-size: 18px;
+}
+#aboutAuthorContentB {
+  font-size: 19px;
 }

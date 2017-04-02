@@ -233,7 +233,7 @@ p.copyright {
 
 /* FORM SECTION */
 #intakeFormContainer {
-  height: 300px;
+  height: 270px;
   width: 100%;
 }
 /*#intakeForm {
@@ -264,7 +264,7 @@ p.copyright {
   border-radius: 10px;
   padding-bottom: 5px;
   margin-bottom: 4px;
-  width: 250px;
+  width: 460px;
 }
 .inputFieldsContainer button {
   font-size: 20px;
@@ -323,26 +323,41 @@ p.copyright {
   left: 0;
   height: 400px;
   width: 100%;
+  margin-top: -78px;
 }
 #connectImage {
   position: absolute;
-  top: 287px;
-  left: 416px;
-  height: 71px;
-  width: 255px;
+  top: 143px;
+  left: 521px;
+  height: 51px;
+  width: 218px;
+  z-index: 1;
+
 }
 #mcgLogo {
   position: absolute;
   top: -43px;
   left: 34px;
-  height: 300px;
-  width: 500px;
+  height: 200px;
+  width: 300px;
 }
 #mcgButton {
   position: absolute;
-  top: 303px;
-  left: 694px;
+  top: 216px;
+  left: 560px;
   font-size: 26px;
   background-color: #62BB46;
   color: white;
+  z-index: 1;
+
+}
+#opateBackground {
+  height: 200px;
+  width: 500px;
+  background-color: white;
+  opacity: .8;
+  position: absolute;
+  top: 100px;
+  left: 388px;
+  border-radius: 10px;
 }

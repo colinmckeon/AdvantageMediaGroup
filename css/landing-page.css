@@ -236,11 +236,16 @@ p.copyright {
 }
 .inputFieldsContainer {
   background-color: #C91E24;
-  height: 200px;
+  height: 228px;
   border-radius: 10px;
   text-align: center;
 }
 .inputFields {
   border-radius: 10px;
   padding-bottom: 5px;
+  margin-bottom: 4px;
+  width: 250px;
+}
+.inputFieldsContainer button {
+  font-size: 20px;
 }

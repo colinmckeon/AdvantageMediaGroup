@@ -283,13 +283,10 @@ p.copyright {
   height: 400px;
   width: 100%;
 }
-/*#mcgBanner {
-  width: 100%
-}*/
 #connectImage {
   position: absolute;
   top: 30px;
-  left: 500px;
+  left: 82px;
 }
 
 /* ABOUT AUTHOR SECTION */

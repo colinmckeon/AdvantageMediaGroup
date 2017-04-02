@@ -271,23 +271,6 @@ p.copyright {
 }
 
 
-/* MCG SECTION */
-#mcgContainer {
-  background-image: url(../img/mcg-banner2.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  position: relative;
-  top: 0;
-  left: 0;
-  height: 400px;
-  width: 100%;
-}
-#connectImage {
-  position: absolute;
-  top: 30px;
-  left: 82px;
-}
 
 /* ABOUT AUTHOR SECTION */
 .aboutAuthor {
@@ -313,6 +296,11 @@ p.copyright {
 /* AUTHOR QUOTES SECTION */
 .quoteContainer{
   margin-bottom: 82px;
+  text-align: center;
+}
+.quoteContainer h1 {
+  color: #C91E24;
+  font-size: 50px;
 }
 .fAwesomeQuote {
   text-align: center;
@@ -321,4 +309,40 @@ p.copyright {
 .reviewPerson {
   color: #C91E24;
   font-size: 16px;
+}
+
+
+/* MCG SECTION */
+#mcgContainer {
+  background-image: url(../img/mcg-banner2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 400px;
+  width: 100%;
+}
+#connectImage {
+  position: absolute;
+  top: 287px;
+  left: 416px;
+  height: 71px;
+  width: 255px;
+}
+#mcgLogo {
+  position: absolute;
+  top: -43px;
+  left: 34px;
+  height: 300px;
+  width: 500px;
+}
+#mcgButton {
+  position: absolute;
+  top: 303px;
+  left: 694px;
+  font-size: 26px;
+  background-color: #62BB46;
+  color: white;
 }

@@ -271,6 +271,26 @@ p.copyright {
 }
 
 
+/* MCG SECTION */
+#mcgContainer {
+  background-image: url(../img/mcg-banner2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 400px;
+  width: 100%;
+}
+/*#mcgBanner {
+  width: 100%
+}*/
+#connectImage {
+  position: absolute;
+  top: 30px;
+  left: 500px;
+}
 
 /* ABOUT AUTHOR SECTION */
 .aboutAuthor {
@@ -296,6 +316,10 @@ p.copyright {
 /* AUTHOR QUOTES SECTION */
 .quoteContainer{
   margin-bottom: 82px;
+}
+.fAwesomeQuote {
+  text-align: center;
+  color: #C91E24;
 }
 .reviewPerson {
   color: #C91E24;

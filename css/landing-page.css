@@ -238,6 +238,7 @@ p.copyright {
   margin-top: 44px;
   height: 300px;
   width: 200px;
+  margin-left: 50px;
 }
 
 
@@ -349,7 +350,7 @@ p.copyright {
 #connectImage {
   position: absolute;
   top: 143px;
-  left: 521px;
+  left: 550px;
   height: 51px;
   width: 218px;
   z-index: 1;
@@ -365,12 +366,11 @@ p.copyright {
 #mcgButton {
   position: absolute;
   top: 216px;
-  left: 560px;
+  left: 582px;
   font-size: 26px;
   background-color: #62BB46;
   color: white;
   z-index: 1;
-
 }
 #opateBackground {
   height: 200px;
@@ -379,6 +379,6 @@ p.copyright {
   opacity: .8;
   position: absolute;
   top: 100px;
-  left: 388px;
+  left: 407px;
   border-radius: 10px;
 }

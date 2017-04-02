@@ -294,3 +294,10 @@ p.copyright {
 
 
 /* AUTHOR QUOTES SECTION */
+.quoteContainer{
+  margin-bottom: 82px;
+}
+.reviewPerson {
+  color: #C91E24;
+  font-size: 16px;
+}

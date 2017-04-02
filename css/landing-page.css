@@ -242,6 +242,15 @@ p.copyright {
 
 
 /* FORM SECTION */
+.exampleA {
+  background-image: url(../img/old-book.jpg);
+  height: 432px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+}
 #intakeFormContainer {
   height: 270px;
   width: 100%;
@@ -266,6 +275,7 @@ p.copyright {
 }
 .inputFieldsContainer {
   background-color: #C91E24;
+  opacity: .8;
   height: 228px;
   border-radius: 10px;
   text-align: center;
